@@ -1,0 +1,45 @@
+* Emacs Conference 2015?
+
+Let's make it happen! Contribute to this repository at
+https://github.com/sachac/emacsconf2015, or e-mail me at
+sacha@sachachua.com .
+
+** Tasks
+*** TODO Collect ideas for sessions
+
+What makes a good session?
+- Something that's great as a demonstration instead of a blog post with screenshots
+- Something that people have lots of questions about
+- Something that benefits from multiple perspectives (like a panel)
+*** TODO Set up some kind of mailing list for announcements
+*** TODO Decide on a date
+August, maybe a Saturday?
+*** TODO Find speakers
+*** TODO Set up schedule
+*** TODO Facilitate sessions and questions
+
+** Ideas for sessions
+*** What's new in Emacs 25?
+**** What's new for users?
+**** What's new for developers?
+*** What are some interesting uses of Emacs?
+*** What are good workflows for common needs?
+**** Programming
+**** Writing and research
+*** How can people contribute to Emacs core?
+Walkthrough of how to:
+- find a small bug to work on
+- navigate the source code
+- prepare a patch
+- work with emacs-devel
+*** What are good development practices for Emacs Lisp?
+- Automated testing
+- Continuous integration and testing on multiple Emacsen
+- Code coverage reporting
+- Emacs Lisp style and package linting
+- Refactoring
+- Performance
+*** How can we get more people from beginner to intermediate?
+*** Organizing Emacs meetups
+*** Lightning talks: Workflow tips and favourite packages
+*** ...
