@@ -48,6 +48,11 @@ Walkthrough of how to:
 *** How can we get more people from beginner to intermediate?
 *** Organizing Emacs meetups
 *** Lightning talks: Workflow tips and favourite packages
+*** Hackathons and workshops
+**** How can you create a package and submit it to the Emacs package repositories?
+**** How can you build better interactive tutorials?
+- Phillip Lord?
+
 *** ...
 
 * Comments
