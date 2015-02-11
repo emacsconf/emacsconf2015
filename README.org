@@ -40,3 +40,6 @@ Walkthrough of how to:
 - Refactoring
 - Performance
 *** How can we get more people from beginner to intermediate?
+*** Organizing Emacs meetups
+*** Lightning talks: Workflow tips and favourite packages
+*** ...
