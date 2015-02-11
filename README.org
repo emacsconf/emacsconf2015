@@ -22,10 +22,21 @@ August, maybe a Saturday?
 *** What's new in Emacs 25?
 **** What's new for users?
 **** What's new for developers?
-*** How can we get more people from beginner to intermediate?
 *** What are some interesting uses of Emacs?
-*** What are good development practices for Emacs Lisp?
 *** What are good workflows for common needs?
 **** Programming
 **** Writing and research
-
+*** How can people contribute to Emacs core?
+Walkthrough of how to:
+- find a small bug to work on
+- navigate the source code
+- prepare a patch
+- work with emacs-devel
+*** What are good development practices for Emacs Lisp?
+- Automated testing
+- Continuous integration and testing on multiple Emacsen
+- Code coverage reporting
+- Emacs Lisp style and package linting
+- Refactoring
+- Performance
+*** How can we get more people from beginner to intermediate?
