@@ -24,6 +24,11 @@ August, maybe a Saturday?
 **** What's new for developers?
 *** What are some interesting uses of Emacs?
 **** Reproducible research
+- How do you manage your literature review?
+- How do you analyze your data?
+- How do you work with charts and graphs?
+- How can you publish in the required formats?
+- What have your experiences been like using this? Advantages? Gaps?
 *** What are good workflows for common needs?
 **** Programming
 **** Writing and research
