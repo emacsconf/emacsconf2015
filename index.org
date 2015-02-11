@@ -23,6 +23,7 @@ August, maybe a Saturday?
 **** What's new for users?
 **** What's new for developers?
 *** What are some interesting uses of Emacs?
+**** Reproducible research
 *** What are good workflows for common needs?
 **** Programming
 **** Writing and research
