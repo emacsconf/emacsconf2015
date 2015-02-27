@@ -4,6 +4,84 @@ Let's make it happen! Contribute to this repository at
 https://github.com/sachac/emacsconf2015, or e-mail me at
 [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
 
+** Ideas for sessions
+*** What's new in Emacs 25?
+**** What's new for users?
+**** What's new for developers?
+*** What are some interesting uses of Emacs?
+**** Reproducible research
+- How do you manage your literature review?
+- How do you analyze your data?
+- How do you work with charts and graphs?
+- How can you publish in the required formats?
+- What have your experiences been like using this? Advantages? Gaps?
+*** What are good workflows for common needs?
+**** Programming
+- C/C++
+- Rails
+- Javascript
+- Java
+- Clojure
+- Scala
+**** Writing and research
+- Reproducible research
+- Writing prose
+- Org for publishing
+- Knowledge management
+*** How can people contribute to Emacs core?
+Walkthrough of how to:
+- find a small bug to work on
+- navigate the source code
+- prepare a patch
+- work with emacs-devel
+*** How can packaging get even better?
+Nic Ferrier? Steve Purcell? Milkypostman?
+*** What can we build with interesting capabilities available in Emacs? How?
+- httpd, elnode; skewer, impatient - @skeeto?
+- comint, NREPL
+
+*** What can improve the usability of Emacs?
+Concrete tips, demonstrations
+
+- tutorials
+- discoverability
+- command mode / god-mode / composable commands
+- Hydra
+
+People: Xah Lee? bbatsov? Steve Purcell? abo-abo?
+
+*** What are good development practices for Emacs Lisp?
+- Automated testing
+- Continuous integration and testing on multiple Emacsen
+- Code coverage reporting
+- Emacs Lisp style and package linting
+- Refactoring
+- Performance
+**** Useful utilities
+Maybe with before/after code?
+
+- s.el
+- f.el
+- dash.el
+- writing asynchronous code
+
+*** How can we get more people from beginner to intermediate?
+*** How can we get more people to begin using Emacs and stick with it for a while?
+- How can interactive tutorials do a better job of introducing and selling Emacs? - Phillip Lord?
+
+*** Organizing Emacs meetups
+*** Lightning talks: Workflow tips and favourite packages
+- Magit
+- Ebib
+- EWW
+- ESS
+*** Hackathons and workshops
+**** How can you create a package and submit it to the Emacs package repositories?
+**** How can you build better interactive tutorials?
+- Phillip Lord?
+
+*** ...
+
 ** Tasks
 *** TODO Collect ideas for sessions
 
@@ -18,45 +96,13 @@ August, maybe a Saturday?
 *** TODO Set up schedule
 *** TODO Facilitate sessions and questions
 
-** Ideas for sessions
-*** What's new in Emacs 25?
-**** What's new for users?
-**** What's new for developers?
-*** What are some interesting uses of Emacs?
-**** Reproducible research
-- How do you manage your literature review?
-- How do you analyze your data?
-- How do you work with charts and graphs?
-- How can you publish in the required formats?
-- What have your experiences been like using this? Advantages? Gaps?
-*** What are good workflows for common needs?
-**** Programming
-**** Writing and research
-*** How can people contribute to Emacs core?
-Walkthrough of how to:
-- find a small bug to work on
-- navigate the source code
-- prepare a patch
-- work with emacs-devel
-*** What are good development practices for Emacs Lisp?
-- Automated testing
-- Continuous integration and testing on multiple Emacsen
-- Code coverage reporting
-- Emacs Lisp style and package linting
-- Refactoring
-- Performance
-*** How can we get more people from beginner to intermediate?
-*** Organizing Emacs meetups
-*** Lightning talks: Workflow tips and favourite packages
-*** Hackathons and workshops
-**** How can you create a package and submit it to the Emacs package repositories?
-**** How can you build better interactive tutorials?
-- Phillip Lord?
-
-*** ...
 
 * Comments
 
 Contribute to this repository at
 https://github.com/sachac/emacsconf2015, or e-mail me at
 [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Looking forward to hearing from you!
+
+* Thanks
+
+- Phillip Lord, Phil Hudson, ...
