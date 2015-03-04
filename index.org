@@ -24,6 +24,7 @@ https://github.com/sachac/emacsconf2015, or e-mail me at
 - Clojure
 - Scala
 - Python
+
 **** Writing and research
 - Reproducible research
 - Writing prose
