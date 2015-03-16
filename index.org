@@ -5,9 +5,29 @@ https://github.com/sachac/emacsconf2015, or e-mail me at
 [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
 
 ** Ideas for sessions
+*** The State of Emacs
+
+The kernel of this idea is basically to have a "State of the Union" address, where the Union is Emacs. I think it would be awesome if someone really embedded in Emacs development (specifically thinking of Stefan) talked about the current state of Emacs development with regards to
+- how development today is functioning. What are major development process problems that need to be fixed but haven't? What do the maintainers of Emacs stress about (letting patches rot in debbugs, having bugs rot in debbugs, being unsure of the general brokenness of Emacs because of the lack of testing), and what processes can be put in place to ease their anxieties?
+- new contributors. Making Emacs easier for new contributors was a *huge* topic in the Fall of 2014 on emacs-devel. The switch to git was seen as the first step, what were the next steps and how did they work?
+- whether anything surprisingly good/bad has happened this year.
+- the general state of emacs-devel.
+- and what we can do to help! :D
+(suggested by Samer)
+
 *** What's new in Emacs 25?
 **** What's new for users?
 **** What's new for developers?
+*** Updates on interesting things
+**** Guile Emacs
+   I think it would be awesome if Robin Templeton or BT Templeton (there is a chance that they're the same person, I'm still not clear on that...) talked about the state of Guile Emacs.
+   - What works? What's left to be done?
+   - What does Guile replace in the core Emacs engine?
+   - *Is Guile Emacs the future of Emacs?* Is Guile Emacs going to *happen* and be merged into trunk at some point in the future? If so, what's needed to get us there, otherwise, why not?
+   And what can we do to help! :D :D
+
+Suggested by Samer
+
 *** What are some interesting uses of Emacs?
 **** Reproducible research
 - How do you manage your literature review?
@@ -70,6 +90,9 @@ Maybe with before/after code?
 - How can interactive tutorials do a better job of introducing and selling Emacs? - Phillip Lord?
 
 *** Organizing Emacs meetups
+**** Identifying people by area who might be interested in an Emacs meetup
+- San Francisco: Samer
+
 *** Lightning talks: Workflow tips and favourite packages
 - Magit
 - Ebib
@@ -105,4 +128,4 @@ https://github.com/sachac/emacsconf2015, or e-mail me at
 
 * Thanks
 
-- Phillip Lord, Phil Hudson, ...
+- Phillip Lord, Phil Hudson, Samer Masterson, ...
