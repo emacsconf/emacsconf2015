@@ -43,6 +43,8 @@ Suggested by Samer
 - Java
 - Clojure
 - Scala
+- Python
+
 **** Writing and research
 - Reproducible research
 - Writing prose
