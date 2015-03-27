@@ -4,6 +4,8 @@ Let's make it happen! Contribute to this repository at
 https://github.com/sachac/emacsconf2015, or e-mail me at
 [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
 
+Event: https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
+
 ** Ideas for sessions
 *** The State of Emacs
 
