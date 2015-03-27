@@ -64,6 +64,15 @@ Nic Ferrier? Steve Purcell? Milkypostman?
 - httpd, elnode; skewer, impatient - @skeeto?
 - comint, NREPL
 
+*** Design and Evolution of [[https://github.com/syl20bnr/spacemacs/][Spacemacs]] by @syl20bnr
+
+- Why evil + spacebar
+- Why guide-key
+- Why layers
+- Vim concepts being brought over - Vundle, etc.
+- State of evil - what is not ideal yet? what are missing features from the ecosystem?
+- How can contributors help?
+
 *** What can improve the usability of Emacs?
 Concrete tips, demonstrations
 
