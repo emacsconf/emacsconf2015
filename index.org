@@ -4,6 +4,8 @@ Let's make it happen! Contribute to this repository at
 https://github.com/sachac/emacsconf2015, or e-mail me at
 [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
 
+*Interested?* Please fill out this form: https://goo.gl/forms/tv0sDuApd8
+
 Event - Aug 22, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
 
 ** Current plans
@@ -45,6 +47,12 @@ Roadmap, how we can help
 
 Suggested by Samer
 
+*** interactive development
+
+I'd love some talks about *interactive* development with Emacs: making changes in code and getting immediate feedback. (Think lighttable.) The Emacs Rocks episode about swank-js is a perfect example of what I mean: http://emacsrocks.com/e11.html.
+
+Suggested by Tikhon Jelvis
+
 *** What are some interesting uses of Emacs?
 **** Reproducible research
 - How do you manage your literature review?
@@ -67,6 +75,7 @@ Suggested by Samer
 - Writing prose
 - Org for publishing
 - Knowledge management
+- How can a student use org-mode effectively? (Notetaking, agenda setup)
 *** How can people contribute to Emacs core?
 Walkthrough of how to:
 - find a small bug to work on
@@ -156,4 +165,4 @@ https://github.com/sachac/emacsconf2015, or e-mail me at
 
 * Thanks
 
-- Phillip Lord, Phil Hudson, Samer Masterson, ...
+- Phillip Lord, Phil Hudson, Samer Masterson, Tikhon Jelvis, ...
