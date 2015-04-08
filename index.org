@@ -30,6 +30,16 @@ The kernel of this idea is basically to have a "State of the Union" address, whe
 
 Suggested by Samer
 
+*** How to start an Emacs Meetup!
+Talk by Harry Schwartz, founder of the NYC Emacs Group
+:interested: Harry Schwartz
+
+*** Introductory Emacs Lisp
+:interested: Harry Schwartz
+
+*** Talk on engine-mode
+:interested: Harry Schwartz
+
 *** What are some interesting uses of Emacs?
 **** Reproducible research
 - How do you manage your literature review?
@@ -117,6 +127,12 @@ Maybe with before/after code?
 - Phillip Lord?
 
 *** ...
+
+*** Volunteers
+**** Harry Schwartz
+ - A/V
+ - Drum up speakers
+ - General volunteer work
 
 ** Tasks
 *** TODO Collect ideas for sessions
