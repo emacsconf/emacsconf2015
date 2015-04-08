@@ -54,6 +54,7 @@ Suggested by Samer
 - Writing prose
 - Org for publishing
 - Knowledge management
+- How can a student use org-mode effectively? (Notetaking, agenda setup)
 *** How can people contribute to Emacs core?
 Walkthrough of how to:
 - find a small bug to work on
