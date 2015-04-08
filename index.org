@@ -1,21 +1,32 @@
+#+TODO: IDEA IDENTIFIED ACCEPTED SCHED
+#+TODO: TODO | DONE
+
 * Emacs Conference 2015?
 
 Let's make it happen! Contribute to this repository at
-https://github.com/sachac/emacsconf2015, or e-mail me at
-[[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
+https://github.com/sachac/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
 
 *Interested?* Please fill out this form: https://goo.gl/forms/tv0sDuApd8
 
-Event - Aug 22, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
+Also, check out this Google+ event - Aug 22, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
+
+** To-do state explanation
+
+- IDEA (or none): Might be a good talk. No one has signed up for it yet
+- IDENTIFIED: Potential speakers for this have been identified
+- INVITED: Someone has actually reached out to the potential speakers and invited them =)
+- ACCEPTED: A speaker for this has accepted
+- SCHED: We actually have a timeslot and everything =D
 
 ** Current plans
 
 - Baseline: Google Hangout all day, very informal, might even just be a couple of people learning about Emacs and occasionally talking about what they discover.
 - Better: Google Hangout, spontaneous talks occur. Sacha edits the videos afterwards and posts highlights.
 - Even better: There are scheduled talks which people prepare for. (See talk ideas below.) Sacha edits the videos afterwards and posts chunks for easy reviewing.
+- Amazing: We have so much planned, we end up with parallel tracks or additional Hangouts.
 
 ** Ideas for sessions
-*** The State of Emacs
+*** IDENTIFIED The State of Emacs
 
 The kernel of this idea is basically to have a "State of the Union" address, where the Union is Emacs. I think it would be awesome if someone really embedded in Emacs development (specifically thinking of Stefan) talked about the current state of Emacs development with regards to
 - how development today is functioning. What are major development process problems that need to be fixed but haven't? What do the maintainers of Emacs stress about (letting patches rot in debbugs, having bugs rot in debbugs, being unsure of the general brokenness of Emacs because of the lack of testing), and what processes can be put in place to ease their anxieties?
@@ -25,20 +36,22 @@ The kernel of this idea is basically to have a "State of the Union" address, whe
 - and what we can do to help! :D
 (suggested by Samer)
 
-*** What's new in Emacs 25?
+Possible people:
+- Stefan Monnier?
+*** IDEA What's new in Emacs 25?
 Roadmap, how we can help
 **** What's new for users?
 **** What's new for developers?
-*** Hearing from Emacs beginners
+*** IDEA Hearing from Emacs beginners
 - What's the experience like?
 - What got you interested?
 - What helped?
 - How can we help more beginners like you get deeper into Emacs?
-*** Q&A for new Emacs users
-*** Things you want more people to know about Emacs
+*** IDEA Q&A for new Emacs users
+*** IDEA Things you want more people to know about Emacs
 - Tips, tricks, workflow ideas
 *** Updates on interesting things
-**** Guile Emacs
+**** IDENTIFIED Guile Emacs
    I think it would be awesome if Robin Templeton or BT Templeton (there is a chance that they're the same person, I'm still not clear on that...) talked about the state of Guile Emacs.
    - What works? What's left to be done?
    - What does Guile replace in the core Emacs engine?
@@ -47,19 +60,8 @@ Roadmap, how we can help
 
 Suggested by Samer
 
-*** interactive development
-
-I'd love some talks about *interactive* development with Emacs: making changes in code and getting immediate feedback. (Think lighttable.) The Emacs Rocks episode about swank-js is a perfect example of what I mean: http://emacsrocks.com/e11.html.
-
-Suggested by Tikhon Jelvis
-
-*** What are some interesting uses of Emacs?
-**** Reproducible research
-- How do you manage your literature review?
-- How do you analyze your data?
-- How do you work with charts and graphs?
-- How can you publish in the required formats?
-- What have your experiences been like using this? Advantages? Gaps?
+**** IDEA Emacs forks and variants?
+ What's going on with Emacs variants? Interesting news?
 *** What are good workflows for common needs?
 **** Programming
 - C/C++
@@ -70,25 +72,82 @@ Suggested by Tikhon Jelvis
 - Scala
 - Python
 
+***** IDEA interactive development
+
+  I'd love some talks about *interactive* development with Emacs: making changes in code and getting immediate feedback. (Think lighttable.) The Emacs Rocks episode about swank-js is a perfect example of what I mean: http://emacsrocks.com/e11.html.
+
+  Suggested by Tikhon Jelvis
+
 **** Writing and research
 - Reproducible research
 - Writing prose
 - Org for publishing
 - Knowledge management
-- How can a student use org-mode effectively? (Notetaking, agenda setup)
-*** How can people contribute to Emacs core?
+***** IDEA Reproducible research
+ - How do you manage your literature review?
+ - How do you analyze your data?
+ - How do you work with charts and graphs?
+ - How can you publish in the required formats?
+ - What have your experiences been like using this? Advantages? Gaps?
+
+***** IDEA How can a student use Emacs/org-mode effectively? 
+- Note-taking
+- Agenda
+- Scheduling
+- Writing papers
+  - Outlines
+  - Export
+- Attachments
+**** IDEA Data science
+- ESS
+- Org Mode and reproducible research
+
+*** ACCEPTED How to start an Emacs Meetup!
+Talk by Harry Schwartz, founder of the NYC Emacs Group
+
+- Experiences
+- Encouraging people to give talks
+
+:interested: Harry Schwartz
+
+Maybe also hear from the London Meetup?
+
+**** Identifying people by area who might be interested in an Emacs meetup
+See also Samer's Google Form
+- San Francisco: Samer
+
+*** IDEA Introductory Emacs Lisp
+:interested: Harry Schwartz
+
+- How to read Emacs Lisp
+- How to start writing your own
+- Modifying other people's code
+- Writing your own
+
+*** IDEA Talk on engine-mode (and defining other conveniences?)
+:interested: Harry Schwartz
+
+This would be a great short demo. If you want, you can also flesh it
+out into a behind-the-scenes "this is how to write stuff like this",
+or describe other little conveniences along these lines that people
+can use. - Sacha
+
+*** IDEA What are some surprising uses of Emacs?
+- Update from the Emacs music scene?
+*** IDEA How can people contribute to Emacs core?
 Walkthrough of how to:
 - find a small bug to work on
 - navigate the source code
 - prepare a patch
 - work with emacs-devel
-*** How can packaging get even better?
-Nic Ferrier? Steve Purcell? Milkypostman?
+*** IDEA Where is the Emacs package system going?
+Nic Ferrier? Steve Purcell? Milkypostman? Tom Tromey?
 *** What can we build with interesting capabilities available in Emacs? How?
-- httpd, elnode; skewer, impatient - @skeeto?
+**** IDENTIFIED What can you do with a web server?
+- httpd, elnode, skewer, impatient, etc. - @skeeto or Nic Ferrier?
+**** IDENTIFIED What can you do with REPLs?
 - comint, NREPL
-
-*** Design and Evolution of [[https://github.com/syl20bnr/spacemacs/][Spacemacs]] by @syl20bnr
+*** IDENTIFIED Design and Evolution of [[https://github.com/syl20bnr/spacemacs/][Spacemacs]] by @syl20bnr
 
 - Why evil + spacebar
 - Why guide-key
@@ -97,7 +156,7 @@ Nic Ferrier? Steve Purcell? Milkypostman?
 - State of evil - what is not ideal yet? what are missing features from the ecosystem?
 - How can contributors help?
 
-*** What can improve the usability of Emacs?
+*** IDEA What can improve the usability of Emacs?
 Concrete tips, demonstrations
 
 - tutorials
@@ -107,14 +166,18 @@ Concrete tips, demonstrations
 
 People: Xah Lee? bbatsov? Steve Purcell? abo-abo?
 
-*** What are good development practices for Emacs Lisp?
+*** IDENTIFIED What are good development practices for Emacs Lisp?
 - Automated testing
 - Continuous integration and testing on multiple Emacsen
 - Code coverage reporting
 - Emacs Lisp style and package linting
 - Refactoring
 - Performance
-**** Useful utilities
+
+I'm working on a series with John Wiegley on this topic, so we might
+be able to spread this one out over lots of little demos. - Sacha
+
+**** IDENTIFIED Useful utilities
 Maybe with before/after code?
 
 - s.el
@@ -122,26 +185,36 @@ Maybe with before/after code?
 - dash.el
 - writing asynchronous code
 
+I think Magnar would be able to talk a lot about this. =) - Sacha
+
 *** How can we get more people from beginner to intermediate?
-*** How can we get more people to begin using Emacs and stick with it for a while?
-- How can interactive tutorials do a better job of introducing and selling Emacs? - Phillip Lord?
-
-*** Organizing Emacs meetups
-**** Identifying people by area who might be interested in an Emacs meetup
-- San Francisco: Samer
-
+*** IDENTIFIED How can we get more people to begin using Emacs and stick with it for a while?
 *** Lightning talks: Workflow tips and favourite packages
-- Magit
-- Ebib
-- EWW
-- ESS
-*** Hackathons and workshops
+**** Magit
+**** Ebib
+**** EWW
+**** ESS
+**** IDENTIFIED Hydra
+abo-abo, naturally.
+I'd love demonstrations of what people use this for =) - Sacha
+**** Org contrib
+*** Hackathons/workshops/demos
 **** How can you create a package and submit it to the Emacs package repositories?
-**** How can you build better interactive tutorials?
+**** How can you add tests and coverage reporting to a package?
+I can prepare something along these lines - Sacha
+**** IDENTIFIED How can you build better interactive tutorials?
 - Phillip Lord?
-
-*** ...
-
+*** Volunteers
+**** Harry Schwartz
+ - A/V
+ - Drum up speakers
+ - General volunteer work
+**** Sacha Chua
+ - Hosting hangouts
+ - Keeping an eye out for questions
+**** Samer Masterson
+ - Drumming up interest
+ - ...
 ** Tasks
 *** TODO Collect ideas for sessions
 
@@ -150,13 +223,17 @@ What makes a good session?
 - Something that people have lots of questions about
 - Something that benefits from multiple perspectives (like a panel)
 *** TODO Set up some kind of mailing list for announcements
-*** TODO Decide on a date
+*** DONE Decide on a date - Aug 22?
+    CLOSED: [2015-04-08 Wed 09:49]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2015-04-08 Wed 09:49]
+    :END:
 August, maybe a Saturday?
 *** TODO Find speakers
 *** TODO Set up schedule
 *** TODO Facilitate sessions and questions
 
-
+    
 * Comments
 
 Contribute to this repository at
