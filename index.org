@@ -32,6 +32,12 @@ The kernel of this idea is basically to have a "State of the Union" address, whe
 
 Suggested by Samer
 
+*** interactive development
+
+I'd love some talks about *interactive* development with Emacs: making changes in code and getting immediate feedback. (Think lighttable.) The Emacs Rocks episode about swank-js is a perfect example of what I mean: http://emacsrocks.com/e11.html.
+
+Suggested by Tikhon Jelvis
+
 *** What are some interesting uses of Emacs?
 **** Reproducible research
 - How do you manage your literature review?
@@ -144,4 +150,4 @@ https://github.com/sachac/emacsconf2015, or e-mail me at
 
 * Thanks
 
-- Phillip Lord, Phil Hudson, Samer Masterson, ...
+- Phillip Lord, Phil Hudson, Samer Masterson, Tikhon Jelvis, ...
