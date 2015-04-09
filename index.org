@@ -217,23 +217,76 @@ I can prepare something along these lines - Sacha
  - ...
 ** Tasks
 *** TODO Collect ideas for sessions
-
 What makes a good session?
 - Something that's great as a demonstration instead of a blog post with screenshots
 - Something that people have lots of questions about
 - Something that benefits from multiple perspectives (like a panel)
-*** TODO Set up some kind of mailing list for announcements
+*** DONE Set up some kind of mailing list for announcements
+CLOSED: [2015-04-08 Wed 22:54]
 *** DONE Decide on a date - Aug 22?
     CLOSED: [2015-04-08 Wed 09:49]
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2015-04-08 Wed 09:49]
     :END:
 August, maybe a Saturday?
-*** TODO Find speakers
+*** TODO Find speakers :ryan:
+**** TODO make list of potential speakers :ryan:
+SCHEDULED: <2015-04-13 Mon>
+**** TODO reach out to potential speakers :ryan:
 *** TODO Set up schedule
 *** TODO Facilitate sessions and questions
-
-    
+*** TODO Gather list of companies to contact for space
+DEADLINE: <2015-04-15 Wed>
+**** DONE SF
+CLOSED: [2015-04-08 Wed 22:25]
+ - GitHub
+ - Internet Archive
+ - UCSF (Golden Gate Ruby Conf was there)
+ - Stanford
+ - UC Berkeley
+ - Stripe
+ - Goodsearch
+ - Uber
+ - Dropbox
+ - Yelp
+ - Twilio
+ - Rackspace
+ - Scribd
+**** TODO NYC
+**** TODO Boston
+(only if we can get some allies in Boston, talk to mattl)
+*** TODO Contact companies for space
+**** TODO outreach template email                                  :samer:
+DEADLINE: <2015-04-10 Fri>
+todo
+**** TODO rackspace                                                 :ryan:
+**** TODO twilio                                                    :ryan:
+**** TODO uber                                                      :ryan:
+**** TODO UCSF (through Golden Gate Ruby Conf)                      :ryan:
+**** TODO yelp                                                     :samer:
+**** TODO uc berkeley                                              :samer:
+**** TODO stanford                                                 :samer:
+**** TODO stripe                                                   :samer:
+**** TODO dropbox                                                  :samer:
+**** TODO zendesk                                                 :sufyan:
+**** TODO goodsearch                                              :sufyan:
+*** TODO misc
+**** TODO verify 30-50 people                                      :samer:
+SCHEDULED: <2015-04-10 Fri>
+w/ dotemacs person, nic, or sacha.
+**** TODO send this to harry                                       :samer:
+SCHEDULED: <2015-04-08 Wed>
+*** TODO set up website
+**** TODO point emacsconf.org to the ideas page? :samer:
+SCHEDULED: <2015-04-15 Wed>
+or do something nice with it
+email alex about this.
+**** TODO figure out what to do with the emacsconf heroku app? :samer:
+how can we use technology to cure our ills?
+*** TODO attendees
+**** TODO send follow up email to everyone on the list :samer:
+**** TODO schedule hard reachout :samer:
+do after getting a hosted space    
 * Comments
 
 Contribute to this repository at
