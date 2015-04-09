@@ -1,5 +1,6 @@
 #+TODO: IDEA IDENTIFIED ACCEPTED SCHED
 #+TODO: TODO | DONE
+#+FILETAGS: EmacsConf
 
 * Emacs Conference 2015?
 
