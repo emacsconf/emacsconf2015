@@ -132,8 +132,15 @@ out into a behind-the-scenes "this is how to write stuff like this",
 or describe other little conveniences along these lines that people
 can use. - Sacha
 
-*** IDEA What are some surprising uses of Emacs?
-- Update from the Emacs music scene?
+*** What are some surprising uses of Emacs?
+**** IDEA Update from the Emacs music scene?
+**** ACCEPTED Literate Devops
+Howard Abrams
+
+- Why sysads should consider Emacs
+- Neat things you can do
+- Demonstration
+
 *** IDEA How can people contribute to Emacs core?
 Walkthrough of how to:
 - find a small bug to work on
