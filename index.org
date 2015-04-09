@@ -9,6 +9,8 @@ https://github.com/sachac/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com]
 
 *Interested?* Please fill out this form: https://goo.gl/forms/tv0sDuApd8
 
+Want to help plan the conference? Join the IRC (#emacsconf on irc.freenode.net) and our google group (emacsconf-org https://groups.google.com/forum/#!forum/emacsconf-org).
+
 Also, check out this Google+ event - Aug 22, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
 
 ** To-do state explanation
@@ -210,12 +212,20 @@ I can prepare something along these lines - Sacha
  - A/V
  - Drum up speakers
  - General volunteer work
+ - emacsconf2015 planning
+**** Aleksandar Simić (dotemacs)
+ - (potentially) being responsible for our twitter, emacsconf.org domain, heroku accounts. 
 **** Sacha Chua
  - Hosting hangouts
  - Keeping an eye out for questions
+ - Managing our Google+ Emacs Conf & hangouts pages.
 **** Samer Masterson
  - Drumming up interest
- - ...
+ - emacsconf2015 planning
+**** Ryan Rix
+ - emacsconf2015 planning
+**** Sufyan Adam
+ - emacsconf2015 planning
 ** Tasks
 *** TODO Collect ideas for sessions
 What makes a good session?
@@ -256,6 +266,7 @@ CLOSED: [2015-04-08 Wed 22:25]
 **** TODO NYC :harry:
 **** TODO Boston
 (only if we can get some allies in Boston, talk to mattl)
+ - MIT
 *** TODO Contact companies for space
 **** TODO outreach template email                                  :samer:
 DEADLINE: <2015-04-10 Fri>
@@ -275,15 +286,23 @@ todo
 **** TODO verify 30-50 people                                      :samer:
 SCHEDULED: <2015-04-10 Fri>
 w/ dotemacs person, nic, or sacha.
-**** TODO send this to harry                                       :samer:
-SCHEDULED: <2015-04-08 Wed>
+**** DONE send this to harry                                       :samer:
+CLOSED: [2015-04-09 Thu 00:12] SCHEDULED: <2015-04-08 Wed>
+**** TODO talk to mattl & the fsf                                     :samer:
+see if boston would be interested in this.
+*** TODO website
+**** TODO transfer github repos to emacsconf org                       :alex:
+ - [ ] https://github.com/dotemacs/emacsconf (as emacsconf)
+ - [ ] https://github.com/dotemacs/emacsconf-organisation (as emacsconf2013)
 *** TODO set up website
-**** TODO point emacsconf.org to the ideas page? :samer:
+**** TODO point emacsconf.org to the ideas page?                :samer:alex::
 SCHEDULED: <2015-04-15 Wed>
 or do something nice with it
 email alex about this.
-**** TODO figure out what to do with the emacsconf heroku app? :samer:
+**** TODO figure out what to do with the emacsconf heroku app?  :samer:alex::
 how can we use technology to cure our ills?
+think about setting us up for future conferences.
+can we make it super easy for people to discuss talks? create a space for discussions? (potentially w/ discourse or another forum thing).
 *** TODO attendees
 **** TODO send follow up email to everyone on the list :samer:
 **** TODO schedule hard reachout :samer:
