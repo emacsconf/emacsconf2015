@@ -24,6 +24,8 @@ EmacsConf is about bringing the people that use Emacs together. EmacsConf, like 
 
 First, join our google group emacsconf-org (https://groups.google.com/forum/#!forum/emacsconf-org). All important messages & announcements go through there. If you want to help, please ping the list or our IRC channel! We're super friendly, so don't stress about getting in contact with us :)
 
+If you have a small idea or improvement, send us a pull request or open an issue!
+
 ** To-do state explanation
 
 - IDEA (or none): Might be a good talk. No one has signed up for it yet
@@ -319,6 +321,11 @@ can we make it super easy for people to discuss talks? create a space for discus
 **** TODO send follow up email to everyone on the list :samer:
 **** TODO schedule hard reachout :samer:
 do after getting a hosted space
+** Questions
+These are answered and unanswered questions regarding our plan. If you have an answer for any of these, please contact us :)
+*** Are there expenses we may miss?
+*** Should we charge a nominal amount?
+*** How interested would the FSF be? How can we let them know about this? What other orgs should we reach out to?
 ** Code of Conduct
 
 Our goal with EmacsConf is to bring the Emacs programming community together for a conference about the joy of Emacs and Emacs Lisp.
