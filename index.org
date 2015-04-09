@@ -13,6 +13,16 @@ Want to help plan the conference? Join the IRC (#emacsconf on irc.freenode.net) 
 
 Also, check out this Google+ event - Aug 22, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
 
+** What is EmacsConf?
+
+EmacsConf is a conference about the joy of Emacs, Emacs Lisp, and complicated key sequences.
+
+EmacsConf is about bringing the people that use Emacs together. EmacsConf, like Emacs itself, is wholely owned by the community, and anyone may contribute to it (see "How to get involved!").
+
+** How to get involved!
+
+First, join our google group emacsconf-org (https://groups.google.com/forum/#!forum/emacsconf-org). All important messages & announcements go through there. If you want to help, please ping the list or our IRC channel! We're super friendly, so don't stress about getting in contact with us :)
+
 ** To-do state explanation
 
 - IDEA (or none): Might be a good talk. No one has signed up for it yet
@@ -218,7 +228,7 @@ I can prepare something along these lines - Sacha
 **** Sacha Chua
  - Hosting hangouts
  - Keeping an eye out for questions
- - Managing our Google+ Emacs Conf & hangouts pages.
+ - Managing our Google+ EmacsConf & hangouts pages.
 **** Samer Masterson
  - Drumming up interest
  - emacsconf2015 planning
@@ -290,6 +300,7 @@ w/ dotemacs person, nic, or sacha.
 CLOSED: [2015-04-09 Thu 00:12] SCHEDULED: <2015-04-08 Wed>
 **** TODO talk to mattl & the fsf                                     :samer:
 see if boston would be interested in this.
+**** TODO add another organizer to CoC contact list :samer:
 *** TODO website
 **** TODO transfer github repos to emacsconf org                       :alex:
  - [ ] https://github.com/dotemacs/emacsconf (as emacsconf)
@@ -306,7 +317,63 @@ can we make it super easy for people to discuss talks? create a space for discus
 *** TODO attendees
 **** TODO send follow up email to everyone on the list :samer:
 **** TODO schedule hard reachout :samer:
-do after getting a hosted space    
+do after getting a hosted space
+** Code of Conduct
+
+Our goal with EmacsConf is to bring the Emacs programming community together for a conference about the joy of Emacs and Emacs Lisp.
+
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by EmacsConf or not.
+
+All attendees, speakers, exhibitors, organizers and volunteers at any EmacsConf event are required to observe the following Code of Conduct. Organizers will enforce this code throughout the event.
+
+**Why have a code of conduct?** Not because we feel like we're expected to have one; not because someone told us to; not because we heard somewhere that it was important for some reason — but **as part of an intentional effort to define the culture EmacsConf.**
+
+*** The Short Version
+
+EmacsConf is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or anything else. We do not tolerate harassment of conference participants in any form.
+
+All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+
+Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for EmacsConf.
+
+Attendees violating these rules may be asked to leave the conference at the sole discretion of the conference organizers.
+
+Thank you for helping make this a welcoming, friendly event for all.
+
+*** The Longer Version
+
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, derisive comments regarding technical background, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for EmacsConf.
+
+If a participant engages in behavior that violates the anti-harassment policy, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference.
+
+*** Social Rules
+
+In addition to having a code of conduct as an anti-harassment policy, we have a small set of [[https://www.recurse.com/manual#sub-sec-social-rules][social rules]] we follow. We (the organizers) learned and lifted these rules from [[https://www.recurse.com/][the Recurse Center]], where we felt that they contributed enormously to a supportive, productive, and fun learning environment. We'd like EmacsConf to share that environment. These rules are intended to be lightweight, and to make more explicit certain social norms that are normally implicit. Most of our social rules really boil down to “don't be a jerk“ or “don't be annoying.” Of course, almost nobody sets out to be a jerk or annoying, so telling people not to be jerks isn't a very productive strategy.
+
+Unlike the anti-harassment policy, violation of the social rules will not result in expulsion from the conference or a strong warning from conference organizers. Rather, they are designed to provide some lightweight social structure for conference attendees to use when interacting with each other.
+
+[[https://www.recurse.com/manual#sub-sec-social-rules][The social rules]].
+
+If you have any questions about any part of the code of conduct or social rules, please feel free to reach out to any of the conference organizers.
+
+*** Contact Information
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff.
+
+If the matter is especially urgent, please call/contact any of these individuals:
+
+    Samer Masterson - (703) 225 8132
+    (add find another organizer here)
+
+Conference staff will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+*** License
+
+The EmacsConf Code of Conduct is under a [[http://creativecommons.org/about/cc0][Creative Commons Zero]] license. It was forked from the !!Con Code of Conduct, which is under a [[http://creativecommons.org/about/cc0][Creative Commons Zero]] license. The !!Con Code of Conduct was forked from the [[https://us.pycon.org/2013/about/code-of-conduct/][PyCon 2013 Code of Conduct]], which is licensed under a [[http://creativecommons.org/licenses/by/3.0/][Creative Commons Attribution 3.0 Unported License]], and which itself was forked from [[http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy][an example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers]] and available under a [[http://creativecommons.org/about/cc0][Creative Commons Zero]] license.
 * Comments
 
 Contribute to this repository at
