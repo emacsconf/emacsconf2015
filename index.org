@@ -237,7 +237,7 @@ SCHEDULED: <2015-04-13 Mon>
 *** TODO Facilitate sessions and questions
 *** TODO Gather list of companies to contact for space
 DEADLINE: <2015-04-15 Wed>
-**** DONE SF
+**** DONE SF :samer:ryan:sufyan::
 CLOSED: [2015-04-08 Wed 22:25]
  - GitHub
  - Internet Archive
@@ -252,7 +252,7 @@ CLOSED: [2015-04-08 Wed 22:25]
  - Twilio
  - Rackspace
  - Scribd
-**** TODO NYC
+**** TODO NYC :harry:
 **** TODO Boston
 (only if we can get some allies in Boston, talk to mattl)
 *** TODO Contact companies for space
