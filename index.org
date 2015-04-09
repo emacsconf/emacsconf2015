@@ -5,7 +5,8 @@
 * Emacs Conference 2015?
 
 Let's make it happen! Contribute to this repository at
-https://github.com/sachac/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
+https://github.com/emacsconf/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version:
+http://emacsconf.github.io/emacsconf2015/
 
 *Interested?* Please fill out this form: https://goo.gl/forms/tv0sDuApd8
 
@@ -377,7 +378,7 @@ The EmacsConf Code of Conduct is under a [[http://creativecommons.org/about/cc0]
 * Comments
 
 Contribute to this repository at
-https://github.com/sachac/emacsconf2015, or e-mail me at
+https://github.com/emacsconf/emacsconf2015, or e-mail me at
 [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Looking forward to hearing from you!
 
 * Thanks
