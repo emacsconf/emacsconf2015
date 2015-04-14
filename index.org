@@ -226,24 +226,26 @@ I'd love demonstrations of what people use this for =) - Sacha
 I can prepare something along these lines - Sacha
 **** IDENTIFIED How can you build better interactive tutorials?
 - Phillip Lord?
-*** Volunteers
-**** Harry Schwartz
+** Volunteers
+*** Harry Schwartz
  - A/V
  - Drum up speakers
  - General volunteer work
  - emacsconf2015 planning
-**** Aleksandar Simić (dotemacs)
+*** Aleksandar Simić (dotemacs)
  - (potentially) being responsible for our twitter, emacsconf.org domain, heroku accounts. 
-**** Sacha Chua
+*** Sacha Chua
  - Hosting hangouts
  - Keeping an eye out for questions
  - Managing our Google+ EmacsConf & hangouts pages.
-**** Samer Masterson
+*** Samer Masterson
  - Drumming up interest
  - emacsconf2015 planning
-**** Ryan Rix
+*** Ryan Rix
  - emacsconf2015 planning
-**** Sufyan Adam
+*** Sufyan Adam
+ - emacsconf2015 planning
+*** Carlos Sosa
  - emacsconf2015 planning
 ** Tasks
 *** TODO Collect ideas for sessions
@@ -396,4 +398,4 @@ https://github.com/emacsconf/emacsconf2015, or e-mail me at
 
 * Thanks
 
-- Phillip Lord, Phil Hudson, Samer Masterson, Tikhon Jelvis, ...
+- Alex, Austin Walker, Carlos Sosa, Harry, Kracekumar Ramaraju, Phil Hudson, Phillip Lord, Ryan, Sacha, Samer Masterson, Sufyan, Swaroop C H, Tikhon Jelvis...

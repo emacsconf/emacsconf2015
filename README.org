@@ -1,3 +1,11 @@
 See [[index.org]].
 
 To generate ~index.html~, run "C-c C-e h h" inside ~index.org~.
+
+* Thanks
+
+(let ((contributors '("Phillip Lord" "Phil Hudson" "Samer Masterson"
+                      "Tikhon Jelvis" "Alex" "Ryan" "Harry" "Sacha" "Sufyan"
+                      "Austin Walker" "Swaroop C H" "Kracekumar Ramaraju"
+                      "Carlos Sosa")))
+  (concat "- " (mapconcat 'identity (sort contributors 'string<) ", ") "..."))
