@@ -297,11 +297,17 @@ todo
 **** TODO uber                                                      :ryan:
 **** TODO UCSF (through Golden Gate Ruby Conf)                      :ryan:
 **** TODO yelp                                                     :samer:
+sent an email to feedback@yelp.com
+reached out to SF Big Analytics & Designers + Geeks b/c they both use Yelp's meetup space.
 **** TODO uc berkeley                                              :samer:
 **** TODO stanford                                                 :samer:
 **** TODO stripe                                                   :samer:
+reached out to a friend
 **** TODO dropbox                                                  :samer:
-**** TODO zendesk                                                 :sufyan:
+reached out to a friend
+**** DONE zendesk                                                 :sufyan:
+CLOSED: [2015-04-14 Tue 13:57]
+not interested
 **** TODO goodsearch                                              :sufyan:
 *** TODO misc
 **** TODO verify 30-50 people                                      :samer:
