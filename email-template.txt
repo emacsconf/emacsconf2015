@@ -8,6 +8,8 @@ We're putting on an Emacs (open source text editor) mini-conference (30-50 peopl
 
 We expect 30-50 people to come, and we would only need the venue for a single day from 7am to 6pm. The only thing we need is a projector and power outlets (we can bring power strips). We don't need catering or anything else.
 
+Our website is: http://emacsconf.github.io/emacsconf2015/
+
 Please let me know if you have any questions!
 
 Thanks,
