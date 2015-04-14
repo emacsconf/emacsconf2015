@@ -1,1 +1,3 @@
 See [[index.org]].
+
+To generate =index.html=, run "C-c C-e h h" inside ~index.org~.
