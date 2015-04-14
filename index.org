@@ -1,6 +1,12 @@
+#+TITLE: EmacsConf 2015 Planning Doc
 #+TODO: IDEA IDENTIFIED ACCEPTED SCHED
 #+TODO: TODO | DONE
 #+FILETAGS: EmacsConf
+#+OPTIONS: html-postamble:nil toc:nil num:nil
+#+LANGUAGE: en
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/foundation.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org-export.css" />
 
 * Emacs Conference 2015?
 
