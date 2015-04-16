@@ -26,6 +26,8 @@ EmacsConf is a conference about the joy of Emacs, Emacs Lisp, and memorizing key
 
 EmacsConf is about bringing the people that use Emacs together. EmacsConf, like Emacs itself, is wholely owned by the community, and anyone may contribute to it (see "How to get involved!").
 
+** When & Where?
+EmacsConf will be on August 22nd (a Saturday). The IRL component will be in San Francisco, CA (venue TBA), and Sacha will be hosting an online component. All of the talks and events will be livestreamed.
 ** How to get involved!
 
 First, join our google group emacsconf-org (https://groups.google.com/forum/#!forum/emacsconf-org). All important messages & announcements go through there. If you want to help, please ping the list or our IRC channel! We're super friendly, so don't stress about getting in contact with us :)
@@ -404,4 +406,4 @@ https://github.com/emacsconf/emacsconf2015, or e-mail me at
 
 * Thanks
 
-- Alex, Austin Walker, Carlos Sosa, Harry, Kracekumar Ramaraju, Phil Hudson, Phillip Lord, Ryan, Sacha, Samer Masterson, Sufyan, Swaroop C H, Tikhon Jelvis...
+- Alex, Austin Walker, Carlos Sosa, Dave Loyall, Harry, Kracekumar Ramaraju, Phil Hudson, Phillip Lord, Ryan, Sacha, Samer Masterson, Sufyan, Swaroop C H, Tikhon Jelvis...
