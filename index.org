@@ -311,6 +311,7 @@ reached out to a friend
 CLOSED: [2015-04-14 Tue 13:57]
 not interested
 **** TODO goodsearch                                              :sufyan:
+     reached out
 *** TODO misc
 **** TODO verify 30-50 people                                      :samer:
 SCHEDULED: <2015-04-10 Fri>
