@@ -107,6 +107,7 @@ Suggested by Samer
 - Writing prose
 - Org for publishing
 - Knowledge management
+- Efficiently managing and using bibliographic databases
 ***** IDEA Reproducible research
  - How do you manage your literature review?
  - How do you analyze your data?
