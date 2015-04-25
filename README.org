@@ -7,5 +7,5 @@ To generate ~index.html~, run "C-c C-e h h" inside ~index.org~.
 (let ((contributors '("Phillip Lord" "Phil Hudson" "Samer Masterson"
                       "Tikhon Jelvis" "Alex" "Ryan" "Harry" "Sacha" "Sufyan"
                       "Austin Walker" "Swaroop C H" "Kracekumar Ramaraju"
-                      "Carlos Sosa" "Dave Loyall")))
+                      "Carlos Sosa" "Dave Loyall" "Titus von der Malsburg")))
   (concat "- " (mapconcat 'identity (sort contributors 'string<) ", ") "..."))
