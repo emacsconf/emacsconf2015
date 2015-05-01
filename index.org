@@ -191,6 +191,17 @@ Concrete tips, demonstrations
 
 People: Xah Lee? bbatsov? Steve Purcell? abo-abo?
 
+**** Improving discoverability
+     With all the tools that are available, this could be a separate talk:
+
+     - Ido
+     - Ido Ubiquitous
+     - Smex
+     - Guide Key
+     - Helm (helm-M-x, helm-descbinds)
+     - Hydra
+     - ...
+
 *** IDENTIFIED What are good development practices for Emacs Lisp?
 - Automated testing
 - Continuous integration and testing on multiple Emacsen
