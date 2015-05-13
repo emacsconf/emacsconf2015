@@ -18,7 +18,7 @@ http://emacsconf.github.io/emacsconf2015/
 
 Want to help plan the conference? Join the IRC (#emacsconf on irc.freenode.net) and our google group (emacsconf-org https://groups.google.com/forum/#!forum/emacsconf-org).
 
-Also, check out this Google+ event - Aug 22, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
+Also, check out this Google+ event - Aug 29, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
 
 ** What is EmacsConf?
 
@@ -27,7 +27,7 @@ EmacsConf is a conference about the joy of Emacs, Emacs Lisp, and memorizing key
 EmacsConf is about bringing the people that use Emacs together. EmacsConf, like Emacs itself, is wholely owned by the community, and anyone may contribute to it (see "How to get involved!").
 
 ** When & Where?
-EmacsConf will be on August 22nd (a Saturday). The IRL component will be in the GoodShop San Francisco office at 550 Montgomery St, San Francisco, CA, and Sacha will be hosting an online component. All of the talks and events will be livestreamed.
+EmacsConf will be on August 29nd (a Saturday). The IRL component will be in the GoodShop San Francisco office at 550 Montgomery St, San Francisco, CA, and Sacha will be hosting an online component. All of the talks and events will be livestreamed.
 ** How to get involved!
 
 First, join our google group emacsconf-org (https://groups.google.com/forum/#!forum/emacsconf-org). All important messages & announcements go through there. If you want to help, please ping the list or our IRC channel! We're super friendly, so don't stress about getting in contact with us :)
