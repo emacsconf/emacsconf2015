@@ -67,6 +67,7 @@ Roadmap, how we can help
 **** What's new for users?
 **** What's new for developers?
 *** IDEA Hearing from Emacs beginners
+:interested: Daniel Gopar and Miguel Flores
 - What's the experience like?
 - What got you interested?
 - What helped?
@@ -115,7 +116,7 @@ Suggested by Samer
  - How can you publish in the required formats?
  - What have your experiences been like using this? Advantages? Gaps?
 
-***** IDEA How can a student use Emacs/org-mode effectively? 
+***** IDEA How can a student use Emacs/org-mode effectively?
 - Note-taking
 - Agenda
 - Scheduling
@@ -247,7 +248,7 @@ I can prepare something along these lines - Sacha
  - General volunteer work
  - emacsconf2015 planning
 *** Aleksandar Simić (dotemacs)
- - (potentially) being responsible for our twitter, emacsconf.org domain, heroku accounts. 
+ - (potentially) being responsible for our twitter, emacsconf.org domain, heroku accounts.
 *** Sacha Chua
  - Hosting hangouts
  - Keeping an eye out for questions
