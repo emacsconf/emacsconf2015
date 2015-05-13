@@ -1,0 +1,16 @@
+;; You can use the email below as a template for reaching out to companies.
+
+Subject: Emacs mini-conference at <company, e.g. "Yelp">
+
+Hi!
+
+We're putting on an Emacs (free software text editor) mini-conference (50-80 people) in <city that company is in, e.g. "San Francisco"> on August 22nd, 2015 (which is a Saturday). <Something nice about company, e.g. "We know Yelp really values and does a lot for the free/open source community">, and we were wondering if we could host the conference at <venue name e.g. "Yelp's meetup space"> for a single day. Of course, we can promote <company name, e.g. "Yelp"> at the conference.
+
+We expect 30-50 people to come, and we would only need the venue for a single day from 7am to 6pm. The only thing we need is a projector and power outlets (we can bring power strips). We don't need catering or anything else.
+
+Our website is: http://emacsconf.github.io/emacsconf2015/
+
+Please let me know if you have any questions!
+
+Thanks,
+<your name>

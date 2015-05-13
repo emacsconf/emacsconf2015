@@ -1,14 +1,38 @@
-#+TODO: IDEA IDENTIFIED ACCEPTED SCHED
+#+TITLE: EmacsConf 2015 Planning Doc
+#+TODO: IDEA IDENTIFIED ACCEPTED SCHED CANCELLED
 #+TODO: TODO | DONE
+#+FILETAGS: EmacsConf
+#+OPTIONS: html-postamble:nil toc:nil num:nil
+#+LANGUAGE: en
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/foundation.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org-export.css" />
 
 * Emacs Conference 2015?
 
 Let's make it happen! Contribute to this repository at
-https://github.com/sachac/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version: http://sachac.github.io/emacsconf2015
+https://github.com/emacsconf/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version:
+http://emacsconf.github.io/emacsconf2015/
 
 *Interested?* Please fill out this form: https://goo.gl/forms/tv0sDuApd8
 
+Want to help plan the conference? Join the IRC (#emacsconf on irc.freenode.net) and our google group (emacsconf-org https://groups.google.com/forum/#!forum/emacsconf-org).
+
 Also, check out this Google+ event - Aug 22, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
+
+** What is EmacsConf?
+
+EmacsConf is a conference about the joy of Emacs, Emacs Lisp, and memorizing key sequences.
+
+EmacsConf is about bringing the people that use Emacs together. EmacsConf, like Emacs itself, is wholely owned by the community, and anyone may contribute to it (see "How to get involved!").
+
+** When & Where?
+EmacsConf will be on August 22nd (a Saturday). The IRL component will be in the GoodShop San Francisco office at 550 Montgomery St, San Francisco, CA, and Sacha will be hosting an online component. All of the talks and events will be livestreamed.
+** How to get involved!
+
+First, join our google group emacsconf-org (https://groups.google.com/forum/#!forum/emacsconf-org). All important messages & announcements go through there. If you want to help, please ping the list or our IRC channel! We're super friendly, so don't stress about getting in contact with us :)
+
+If you have a small idea or improvement, send us a pull request or open an issue!
 
 ** To-do state explanation
 
@@ -43,6 +67,7 @@ Roadmap, how we can help
 **** What's new for users?
 **** What's new for developers?
 *** IDEA Hearing from Emacs beginners
+:interested: Daniel Gopar and Miguel Flores
 - What's the experience like?
 - What got you interested?
 - What helped?
@@ -83,6 +108,7 @@ Suggested by Samer
 - Writing prose
 - Org for publishing
 - Knowledge management
+- Efficiently managing and using bibliographic databases
 ***** IDEA Reproducible research
  - How do you manage your literature review?
  - How do you analyze your data?
@@ -90,7 +116,7 @@ Suggested by Samer
  - How can you publish in the required formats?
  - What have your experiences been like using this? Advantages? Gaps?
 
-***** IDEA How can a student use Emacs/org-mode effectively? 
+***** IDEA How can a student use Emacs/org-mode effectively?
 - Note-taking
 - Agenda
 - Scheduling
@@ -173,6 +199,17 @@ Concrete tips, demonstrations
 
 People: Xah Lee? bbatsov? Steve Purcell? abo-abo?
 
+**** Improving discoverability
+     With all the tools that are available, this could be a separate talk:
+
+     - Ido
+     - Ido Ubiquitous
+     - Smex
+     - Guide Key
+     - Helm (helm-M-x, helm-descbinds)
+     - Hydra
+     - ...
+
 *** IDENTIFIED What are good development practices for Emacs Lisp?
 - Automated testing
 - Continuous integration and testing on multiple Emacsen
@@ -211,42 +248,183 @@ I'd love demonstrations of what people use this for =) - Sacha
 I can prepare something along these lines - Sacha
 **** IDENTIFIED How can you build better interactive tutorials?
 - Phillip Lord?
-*** Volunteers
-**** Harry Schwartz
+** Volunteers
+*** Harry Schwartz
  - A/V
  - Drum up speakers
  - General volunteer work
-**** Sacha Chua
+ - emacsconf2015 planning
+*** Aleksandar Simić (dotemacs)
+ - (potentially) being responsible for our twitter, emacsconf.org domain, heroku accounts.
+*** Sacha Chua
  - Hosting hangouts
  - Keeping an eye out for questions
-**** Samer Masterson
+ - Managing our Google+ EmacsConf & hangouts pages.
+*** Samer Masterson
  - Drumming up interest
- - ...
+ - emacsconf2015 planning
+*** Ryan Rix
+ - emacsconf2015 planning
+*** Sufyan Adam
+ - emacsconf2015 planning
+*** Carlos Sosa
+ - emacsconf2015 planning
 ** Tasks
-*** TODO Collect ideas for sessions
-
+*** DONE Collect ideas for sessions
 What makes a good session?
 - Something that's great as a demonstration instead of a blog post with screenshots
 - Something that people have lots of questions about
 - Something that benefits from multiple perspectives (like a panel)
-*** TODO Set up some kind of mailing list for announcements
+*** DONE Set up some kind of mailing list for announcements
+CLOSED: [2015-04-08 Wed 22:54]
 *** DONE Decide on a date - Aug 22?
     CLOSED: [2015-04-08 Wed 09:49]
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2015-04-08 Wed 09:49]
     :END:
 August, maybe a Saturday?
-*** TODO Find speakers
+*** TODO Find speakers :ryan:
+**** TODO make list of potential speakers :ryan:
+SCHEDULED: <2015-04-13 Mon>
+**** TODO reach out to potential speakers :ryan:
 *** TODO Set up schedule
 *** TODO Facilitate sessions and questions
+*** DONE Gather list of companies to contact for space
+DEADLINE: <2015-04-15 Wed>
+**** DONE SF :samer:ryan:sufyan::
+CLOSED: [2015-04-08 Wed 22:25]
+ - GitHub
+ - Internet Archive
+ - UCSF (Golden Gate Ruby Conf was there)
+ - Stanford
+ - UC Berkeley
+ - Stripe
+ - Goodsearch
+ - Uber
+ - Dropbox
+ - Yelp
+ - Twilio
+ - Rackspace
+ - Scribd
+**** DONE NYC                                                         :harry:
+**** DONE Boston
+(only if we can get some allies in Boston, talk to mattl)
+ - MIT
+*** DONE Contact companies for space
+**** DONE outreach template email                                     :samer:
+DEADLINE: <2015-04-10 Fri>
+todo
+**** CANCELLED rackspace                                               :ryan:
+**** CANCELLED twilio                                                  :ryan:
+**** CANCELLED uber                                                    :ryan:
+**** CANCELLED UCSF (through Golden Gate Ruby Conf)                    :ryan:
+**** CANCELLED yelp                                                   :samer:
+sent an email to feedback@yelp.com
+reached out to SF Big Analytics & Designers + Geeks b/c they both use Yelp's meetup space.
+**** CANCELLED uc berkeley                                            :samer:
+**** CANCELLED stanford                                               :samer:
+**** CANCELLED stripe                                                 :samer:
+reached out to a friend
+**** CANCELLED dropbox                                                :samer:
+reached out to a friend
+**** DONE zendesk                                                 :sufyan:
+CLOSED: [2015-04-14 Tue 13:57]
+not interested
+**** DONE goodsearch                                                 :sufyan:
+     Will host
+*** TODO misc
+**** TODO verify 30-50 people                                      :samer:
+SCHEDULED: <2015-04-10 Fri>
+w/ dotemacs person, nic, or sacha.
+**** DONE send this to harry                                       :samer:
+CLOSED: [2015-04-09 Thu 00:12] SCHEDULED: <2015-04-08 Wed>
+**** TODO talk to mattl & the fsf                                     :samer:
+see if boston would be interested in this.
+**** TODO add another organizer to CoC contact list :samer:
+*** TODO website
+**** TODO transfer github repos to emacsconf org                       :alex:
+ - [ ] https://github.com/dotemacs/emacsconf (as emacsconf)
+ - [ ] https://github.com/dotemacs/emacsconf-organisation (as emacsconf2013)
+*** TODO set up website
+**** TODO point emacsconf.org to the ideas page?                :samer:alex::
+SCHEDULED: <2015-04-15 Wed>
+or do something nice with it
+email alex about this.
+**** TODO figure out what to do with the emacsconf heroku app?  :samer:alex::
+how can we use technology to cure our ills?
+think about setting us up for future conferences.
+can we make it super easy for people to discuss talks? create a space for discussions? (potentially w/ discourse or another forum thing).
+*** TODO attendees
+**** TODO send follow up email to everyone on the list :samer:
+**** TODO schedule hard reachout :samer:
+do after getting a hosted space
+** Questions
+These are answered and unanswered questions regarding our plan. If you have an answer for any of these, please contact us :)
+*** Are there expenses we may miss?
+*** Should we charge a nominal amount?
+*** How interested would the FSF be? How can we let them know about this? What other orgs should we reach out to?
+** Code of Conduct
 
-    
+Our goal with EmacsConf is to bring the Emacs programming community together for a conference about the joy of Emacs and Emacs Lisp.
+
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by EmacsConf or not.
+
+All attendees, speakers, exhibitors, organizers and volunteers at any EmacsConf event are required to observe the following Code of Conduct. Organizers will enforce this code throughout the event.
+
+**Why have a code of conduct?** Not because we feel like we're expected to have one; not because someone told us to; not because we heard somewhere that it was important for some reason — but **as part of an intentional effort to define the culture EmacsConf.**
+
+*** The Short Version
+
+EmacsConf is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or anything else. We do not tolerate harassment of conference participants in any form.
+
+All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+
+Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for EmacsConf.
+
+Attendees violating these rules may be asked to leave the conference at the sole discretion of the conference organizers.
+
+Thank you for helping make this a welcoming, friendly event for all.
+
+*** The Longer Version
+
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, derisive comments regarding technical background, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for EmacsConf.
+
+If a participant engages in behavior that violates the anti-harassment policy, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference.
+
+*** Social Rules
+
+In addition to having a code of conduct as an anti-harassment policy, we have a small set of [[https://www.recurse.com/manual#sub-sec-social-rules][social rules]] we follow. We (the organizers) learned and lifted these rules from [[https://www.recurse.com/][the Recurse Center]], where we felt that they contributed enormously to a supportive, productive, and fun learning environment. We'd like EmacsConf to share that environment. These rules are intended to be lightweight, and to make more explicit certain social norms that are normally implicit. Most of our social rules really boil down to "don't be a jerk" or "don't be annoying." Of course, almost nobody sets out to be a jerk or annoying, so telling people not to be jerks isn't a very productive strategy.
+
+Unlike the anti-harassment policy, violation of the social rules will not result in expulsion from the conference or a strong warning from conference organizers. Rather, they are designed to provide some lightweight social structure for conference attendees to use when interacting with each other.
+
+[[https://www.recurse.com/manual#sub-sec-social-rules][The social rules]].
+
+If you have any questions about any part of the code of conduct or social rules, please feel free to reach out to any of the conference organizers.
+
+*** Contact Information
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff.
+
+If the matter is especially urgent, please call/contact any of these individuals:
+
+ - Samer Masterson - (703) 225 8132
+ - (add another organizer here)
+
+Conference staff will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+*** License
+
+The EmacsConf Code of Conduct is under a [[http://creativecommons.org/about/cc0][Creative Commons Zero]] license. It was forked from the !!Con Code of Conduct, which is under a [[http://creativecommons.org/about/cc0][Creative Commons Zero]] license. The !!Con Code of Conduct was forked from the [[https://us.pycon.org/2013/about/code-of-conduct/][PyCon 2013 Code of Conduct]], which is licensed under a [[http://creativecommons.org/licenses/by/3.0/][Creative Commons Attribution 3.0 Unported License]], and which itself was forked from [[http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy][an example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers]] and available under a [[http://creativecommons.org/about/cc0][Creative Commons Zero]] license.
 * Comments
 
 Contribute to this repository at
-https://github.com/sachac/emacsconf2015, or e-mail me at
+https://github.com/emacsconf/emacsconf2015, or e-mail me at
 [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Looking forward to hearing from you!
 
 * Thanks
 
-- Phillip Lord, Phil Hudson, Samer Masterson, Tikhon Jelvis, ...
+- Alex, Austin Walker, Carlos Sosa, Dave Loyall, Diego Berrocal, Harry, Kracekumar Ramaraju, Phil Hudson, Phillip Lord, Ryan, Sacha, Samer Masterson, Sufyan, Swaroop C H, Tikhon Jelvis, Titus von der Malsburg...
