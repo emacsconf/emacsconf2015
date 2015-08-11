@@ -8,15 +8,15 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/style.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org-export.css" />
 
-* Emacs Conference 2015?
+* Emacs Conference 2015!
 
 Let's make it happen! Contribute to this repository at
 https://github.com/emacsconf/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version:
 http://emacsconf.github.io/emacsconf2015/
 
-*Interested?* Please fill out this form: https://goo.gl/forms/tv0sDuApd8
+*Interested?* Register for EmacsConf 2015 by going to http://emacsconf2015.org/ or by emailing register@emacsconf2015.org with your name or nickname.
 
-Want to help plan the conference? Join the IRC (#emacsconf on irc.freenode.net) and our google group (emacsconf-org https://groups.google.com/forum/#!forum/emacsconf-org).
+Want to help plan the conference? Join the IRC (#emacsconf on irc.freenode.net) and our Discourse: http://discourse.emacsconf2015.org.
 
 Also, check out this Google+ event - Aug 29, 2015? https://plus.google.com/events/cgd1kva6f473osvgvq6biuinhn4
 
