@@ -8,7 +8,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/style.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org-export.css" />
 
-* Emacs Conference 2015!
+* Emacs Conference 2015! -- http://emacsconf2015.org
 
 Let's make it happen! Contribute to this repository at
 https://github.com/emacsconf/emacsconf2015, or e-mail [[mailto:sacha@sachachua.com][sacha@sachachua.com]] . Web version:
