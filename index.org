@@ -67,7 +67,7 @@ Roadmap, how we can help
 **** What's new for users?
 **** What's new for developers?
 *** IDEA Hearing from Emacs beginners
-:interested: Daniel Gopar and Miguel Flores
+:interested: Daniel Gopar, Miguel Flores, and Julian Boshard
 - What's the experience like?
 - What got you interested?
 - What helped?
@@ -87,6 +87,13 @@ Suggested by Samer
 
 **** IDEA Emacs forks and variants?
  What's going on with Emacs variants? Interesting news?
+
+**** IDEA Emacs running in Chrome
+What's the status on [[https://www.reddit.com/r/emacs/comments/311kpk/emacs_runs_natively_on_chrome/][running Emacs in Chrome's NaCl environment]]? This seems like an exciting development with a lot of potential.
+  - What can it do now?
+  - What are its limitations?
+  - What can we do to help?
+
 *** What are good workflows for common needs?
 **** Programming
 - C/C++
